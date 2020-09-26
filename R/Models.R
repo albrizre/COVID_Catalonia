@@ -8,7 +8,7 @@ library(RColorBrewer)
 
 # Set the working directory  
 
-setwd("E:/Catalunya COVID/")
+setwd("Enter your working directory")
 
 # Save the files "region_data.rda", "regions.rda", and "regions.W.rda" in this directory, and load them 
 
