@@ -1,6 +1,6 @@
 # The effect of the environment on COVID-19: a spatio-temporal study in Catalonia (Spain)
 
-The files in this repository allow fitting the spatio-temporal models discussed in the paper "The impact of modelling choices on modelling outcomes: a spatio-temporal study of the association between COVID-19 spread and environmental conditions in Catalonia (Spain)".
+The files in this repository allow fitting the spatio-temporal models discussed in the paper "The impact of modelling choices on modelling outcomes: a spatio-temporal study of the association between COVID-19 spread and environmental conditions in Catalonia (Spain)", which can be found in the [arXiv](https://arxiv.org/abs/2009.12625).
 
 The following files are included in the R folder:
 
